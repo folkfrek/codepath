@@ -50,3 +50,4 @@ class ViewController: UIViewController {
         totalLabel.text = String(format: "$%.2f", total)
     }
 }
+
